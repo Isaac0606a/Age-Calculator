@@ -1,0 +1,1 @@
+This program provides a simple GUI where you can enter your name, birth year, month, and day to calculate your exact age down to the decimal. The name field accepts letters only, while the date fields require numerical input.
